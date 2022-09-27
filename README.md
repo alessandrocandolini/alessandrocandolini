@@ -8,7 +8,7 @@ I'm Alessandro
 - 🌱 Among my favourite topics in programming: pragmatic, strongly statically typed functional programming; architecture, design, and implementation of concurrenct and distributed systems; correctness of computer programs (TDD, PBT, formal specification and verification, TLA+, etc) 
 - my favourite programming languages: Scala & Haskell
 - 💰 do you have a lot of money and you want to invest them on a new business? Write to me, I might know the ninjia team that can make it happen quickly and robustly, but we are not cheap
-- 📫 How to reach out to me: alessandro.candolini@gmail.com, linkedin profile](https://www.linkedin.com/in/alessandrocandolini/) , or open a bug in one of my repos 😄 
+- 📫 How to reach out to me: alessandro.candolini@gmail.com, [linkedin profile](https://www.linkedin.com/in/alessandrocandolini/) , or open a bug in one of my repos 😄 
 - I own another github account https://github.com/acando86 that i only use at work
 
 

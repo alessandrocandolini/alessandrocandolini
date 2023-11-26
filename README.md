@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm Alessandro
+I'm Ale
 
-- 🔭  I've been working at [Depop](https://depop.com/) for the past 5+ years as technical lead and scala / backend staff engineer. Find out more about my current and past roles in my [linkedin profile](https://www.linkedin.com/in/alessandrocandolini/) or this [cv](https://github.com/alessandrocandolini/cv-public) (proudly typeset in LaTex :D ) 
-- 💬 Ask me about .. anything! I'm always keen to chat about any topic, particularly physics, mathematics, programming, business, blues, books, cocktails &  gin 🍸
-- I've never had a chance to actively contribute to open source projects yet, but I usually open source most of the things i do in my spare time, in case someone else finds them useful. In my github account you'll find a variety of different things, including some latex notes and slides (about physics, math, programming, and statistics); playground projects for different programing languages, libraries, and tools (eg, scala, haskell, TLA+, CI/CD); various giter8 templates to generate new projects; and more. 
-- 🌱 Among my favourite topics in programming: pragmatic, strongly statically typed functional programming; concurrency; distributed systems; correctness of computer programs (TDD, PBT, formal specification and verification, Agda, Stainless, TLA+, etc) 
+- 🔭 for the past 6+ years I've been working at [Depop](https://depop.com/) where I solve business and commercial problems and delight Depop users through technology. Leading strategic engineering iniatives at scale and having fun implementing backend technical solutions, using Scala and functional programming (among other things). Find out more about my current and past roles on [linkedin](https://www.linkedin.com/in/alessandrocandolini/) or read my [cv](https://github.com/alessandrocandolini/cv-public) (proudly typeset in LaTex :D not very parsable by automatic tooling :D ) 
+- 💬 Ask me about .. anything! Always keen to have a chat about all sort of topics: physics, mathematics, functional programming, business, blues, books, gin 🍸
+- Not very active on open source, but love to share publicly here whatever I'm currently working on (even if not completed). In my github account you'll find a variety of different things, including latex notes and slides (about physics, math, programming, and statistics); playground projects for different programing languages, libraries, and tools (eg, scala, haskell, TLA+, CI/CD); various giter8 templates to generate new projects; and more. 
+- 🌱 Among my favourite topics in programming: pragmatism & strongly statically typed functional programming; concurrency and distributed systems; correctness of computer programs (TDD, PBT, formal specification and verification, Agda, Stainless, TLA+, etc). Generally interested in the intersection between technology and business, wisely using advanced concepts when appropriate to quickly deliver reliable solutions in a lean way
 - my favourite programming languages: Scala & Haskell
-- 💰 do you have a lot of money and you want to invest them on a new business? Write to me, I might know the ninjia team that can make it happen quickly and robustly, but we are not cheap
+- 💰 do you have money and you want to invest on a new business but not sure how to tackle the development of a digital product? Write to me, I might know a trustable ninjia team that can make it happen quickly and robustly, but we are not cheap! 
 - 📫 How to reach out to me: alessandro.candolini@gmail.com, [linkedin profile](https://www.linkedin.com/in/alessandrocandolini/) , or open a bug in one of my repos 😄 
-- I own another github account https://github.com/acando86 that i only use at work
+- I own another github account https://github.com/acando86 that i only use for work
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandrocandolini&count_private=true&show_icons=true)
 

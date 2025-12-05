@@ -10,7 +10,3 @@ I'm Ale
 - 💰 do you have money and you want to invest on a new business but not sure how to tackle the development of a digital product? Write to me, I might know a trustable ninjia team that can make it happen quickly and robustly, but we are not cheap! 
 - 📫 How to reach out to me: alessandro.candolini@gmail.com, [linkedin profile](https://www.linkedin.com/in/alessandrocandolini/) , or open a bug in one of my repos 😄 
 - I own another github account https://github.com/acando86 that i only use for work
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandrocandolini&count_private=true&show_icons=true)
-
-
